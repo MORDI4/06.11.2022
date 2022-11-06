@@ -1,1 +1,1 @@
-"# 06.11.2022" 
+Zadanie na programowanie zaawansowane 
