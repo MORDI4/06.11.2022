@@ -13,12 +13,11 @@ int main() {
     
     cout<<"Twoja funkcja liniowa to "<<a<<"x "<<"+ "<<b<<"y "<<"+ "<<c<<" = 0"<<"\n";
     
-    cout<<"Miejsce zerowe to "<<-c/a;
-    /* if(a==0){
+    if(a==0){
     	cout<<"Miejsce zerowe to "<<b;
 	} else {
-		cout<<"Miejsce zerowe to "<<-b/a;
+		cout<<"Miejsce zerowe to "<<-c/a;
 	}
-	*/
+	
 
 }
