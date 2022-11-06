@@ -19,5 +19,5 @@ int main() {
 		cout<<"Miejsce zerowe to "<<-c/a;
 	}
 	
-
+	//git remote add origin https://MORDI4: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@github.com/MORDI4/06.11.2022.git
 }
